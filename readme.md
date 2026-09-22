@@ -169,6 +169,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `gmail`       |     <img src="./icons/Gmail-Dark.svg" width="48">     |
 |     `gherkin`      |    <img src="./icons/Gherkin-Dark.svg" width="48">    |
 |        `go`        |       <img src="./icons/GoLang.svg" width="48">       |
+|  `googlescholar`   | <img src="./icons/GoogleScholar-Dark.svg" width="48"> |
 |      `gradle`      |    <img src="./icons/Gradle-Dark.svg" width="48">     |
 |      `godot`       |     <img src="./icons/Godot-Dark.svg" width="48">     |
 |     `grafana`      |    <img src="./icons/Grafana-Dark.svg" width="48">    |
